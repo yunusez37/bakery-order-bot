@@ -7,3 +7,9 @@ Bu proje, pastaneler için Python ve Twilio kullanılarak geliştirdiğim otomat
 - **Sipariş Alma:** Ürün seçimi ve adres takibi yapar.
 - **Yönetim Paneli:** Gelen siparişleri panel adresinde listeler.
 - **Durum Yönetimi:** Kullanıcının hangi aşamada olduğunu hatırlar.
+
+## Kullanılan Teknolojiler
+Python 3
+Flask
+Twilio API
+Ngrok
